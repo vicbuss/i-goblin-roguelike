@@ -1,3 +1,3 @@
 export default {
-    base: 'i-goblin-roguelike'
+    base: '/i-goblin-roguelike/'
 }
